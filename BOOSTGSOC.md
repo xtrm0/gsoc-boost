@@ -83,13 +83,13 @@ The following are rated as a skills of a student:
 _What software development environments are you most familiar with (Visual Studio, Eclipse, KDevelop, etc.)?_
 
 [On Linux: (I use mostly fedora 21)]
-Editors: Emacs and eclipse CDT or atom
-Compilers: gcc and clang
-Debugers: gdb is my main option, but I have some small experience with lldb
-Memory testing: valgrind
++Editors: Emacs and eclipse CDT or atom
++Compilers: gcc and clang
++Debugers: gdb is my main option, but I have some small experience with lldb
++Memory testing: valgrind
 
 [On Windows: 8]
-I prefer using visual studio 2013
++I prefer using visual studio 2013
 
 _What software documentation tool are you most familiar with (Doxygen, DocBook, Quickbook, etc.)?_
 
